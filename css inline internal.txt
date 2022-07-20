@@ -16,7 +16,7 @@
     <table cellspacing= " 20">
       <tr>
         <td>
-          <img src="C:\Users\DELL\Downloads\snigdha-modified.png"
+          <img src="images\snigdha-modified.png"
           height="250"
           width="230">
         </td>
